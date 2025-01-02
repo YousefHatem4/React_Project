@@ -1,0 +1,31 @@
+.bgContact {
+    height: fit-content;
+}
+
+.color {
+    color: rgb(44, 62, 80);
+}
+
+
+
+.line {
+    width: 80px;
+    height: 4px;
+    background-color: rgb(44, 62, 80);
+}
+
+.layer{
+    background-color: #1abc9ce6;
+    opacity: 0;
+    transition: all .5s;
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    -ms-transition: all .5s;
+    -o-transition: all .5s;
+}
+.layer:hover{
+    opacity: 1;
+}
+.imageWidth{
+    width: 600px;
+}

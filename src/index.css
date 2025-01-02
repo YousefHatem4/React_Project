@@ -1,0 +1,8 @@
+.navbar-nav .nav-link.active {
+    background-color: #1abc9c;
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
+}

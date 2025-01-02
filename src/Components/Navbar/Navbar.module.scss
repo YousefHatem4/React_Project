@@ -1,0 +1,25 @@
+$main-color: #2C3E50;
+$font-color: rgb(255, 255, 255);
+$main-font-weight: 700;
+$main-padding: 24px;
+
+.bg-body-tertiary {
+    background-color: $main-color;
+}
+
+.logo {
+    color: $font-color;
+    font-size: 32px;
+    line-height: 48px;
+    font-weight: $main-font-weight;
+}
+
+.scrolled {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    transition: padding 0.5s ease-in-out;
+    -webkit-transition: padding 0.5s ease-in-out;
+    -moz-transition: padding 0.5s ease-in-out;
+    -ms-transition: padding 0.5s ease-in-out;
+    -o-transition: padding 0.5s ease-in-out;
+}

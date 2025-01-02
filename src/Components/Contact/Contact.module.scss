@@ -1,0 +1,27 @@
+.bgContact{
+    height: 90vh;
+}
+
+.color{
+    color: rgb(44, 62, 80);
+}
+.line{
+        width: 80px;
+        height: 4px;
+        background-color: rgb(44, 62, 80);
+}
+.margin{
+    margin-top: 5rem;
+}
+
+
+.form-control:focus {
+    outline: none !important;
+    box-shadow: none !important;
+    border-color: none !important;  
+}
+
+.btn-secondary{
+    background-color: #1ABC9C;
+    border: none;
+}
